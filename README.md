@@ -1,2 +1,2 @@
 # MySQL
-create databse customer;
+create database customer;
