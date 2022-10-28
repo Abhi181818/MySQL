@@ -1,0 +1,2 @@
+# MySQL
+create databse customer;
