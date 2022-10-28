@@ -1,2 +1,0 @@
-# MySQL
-create database customer;
